@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/chandu6839/Test/issues"
   },
-  "homepage": "https://github.com/chandu6839/Test#readme"
+  "homepage": "https://github.com/chandu6839/Test#readme",
+  "publishConfig": {
+    "@chandu6839:registry": "https://npm.pkg.github.com"
+  }
 }
